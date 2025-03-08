@@ -13,17 +13,13 @@ This is a simple finance tracking terminal-based application built in Python. It
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/finance-tracker.git
+   git clone https://github.com/amanpal-git/finance-tracker.git
    cd finance-tracker
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
    ```
 
 ## Usage
