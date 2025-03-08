@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 Feel free to fork this project and submit pull requests with improvements.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/amanpal-git)
 
