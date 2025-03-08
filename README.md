@@ -62,10 +62,6 @@ Install them using:
 ```sh
 pip install pandas matplotlib
 ```
-
-## License
-This project is licensed under the MIT License.
-
 ## Contributing
 Feel free to fork this project and submit pull requests with improvements.
 
